@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/50116138/133003892-d4602bb8-46ee-4928-a22d-08895a08a53a.png)
 
 ### code for assignment 2
-[link to project]https://github.com/SindreFardal/DAT250-assignment2 
+[link to project](https://github.com/SindreFardal/DAT250-assignment2)
 
 ## Technical problems
 I didn't encounter any specific technical difficulties, but thought the whole process of installing everything and getting it to work properly was challenging. Therefore i used quite a bit of time to understand the connection of these tools and installing them properly.
