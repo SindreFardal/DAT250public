@@ -12,4 +12,3 @@ I didn't encounter any specific technical difficulties, but thought the whole pr
 
 ## how i inspected the database
 I used some simple queries as "show tables" to show me all the tables (as seen in the pictures above), as well as "select * from "insert table here"" to show me the contents of each table. 
-
