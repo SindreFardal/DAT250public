@@ -11,9 +11,8 @@
 
 
 ## Technical problems
+I didn't encounter any specific technical difficulties, but used quite a bit of time to understand the apache/derby tools and installing them correctly.
 
+## how i inspected the database
+I used some simple queries as "show tables" to show me all the tables (as seen in the pictures above), as well as "select * from "insert table here"" to show me the contents of each table. 
 
-## validation
-
-
-## Project url
