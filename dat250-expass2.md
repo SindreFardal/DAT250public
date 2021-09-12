@@ -7,7 +7,6 @@
 ![image](https://user-images.githubusercontent.com/50116138/133003892-d4602bb8-46ee-4928-a22d-08895a08a53a.png)
 
 
-
 ## Technical problems
 I didn't encounter any specific technical difficulties, but used quite a bit of time to understand the apache/derby tools and installing them correctly.
 
