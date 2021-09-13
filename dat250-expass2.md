@@ -19,4 +19,4 @@ I unfortunately didn't get the tutorial code to work. First I got the message th
 I didn't encounter any specific technical difficulties, but thought the whole process of installing everything and getting it to work properly was challenging. Therefore i used quite a bit of time to understand the connection of these tools and installing them properly.
 
 ## how i inspected the database
-I used some simple queries as "show tables" to show me all the tables (as seen in the pictures above), as well as "select * from "insert table here"" to show me the contents of each table. 
+I used ij as a tool to interact with the database, and I used some simple queries as "show tables" to show me all the tables (as seen in the pictures above), as well as "select * from "insert table here"" to show me the contents of each table. 
