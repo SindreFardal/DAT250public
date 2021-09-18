@@ -39,13 +39,15 @@
 ![image](https://user-images.githubusercontent.com/50116138/133892138-e644689a-cf4b-4a5c-8cd0-e1a052730859.png)
 
 I realised when trying to call this function that when i defined the function i used a name with a space in it, which doesn't work.
+
 ![image](https://user-images.githubusercontent.com/50116138/133892219-3bbc2dc5-67cc-435d-ac8a-3544e10ce3a5.png)
+
 So i had to make it again, this time with one text containing no spaces.
 ![image](https://user-images.githubusercontent.com/50116138/133892277-245d87ce-bed1-426a-b6af-38843c244f6a.png)
 
 Screenshot of the result:
-![image](https://user-images.githubusercontent.com/50116138/133892293-a8d92262-5866-485f-82aa-89f9169a0719.png)
 
+![image](https://user-images.githubusercontent.com/50116138/133892293-a8d92262-5866-485f-82aa-89f9169a0719.png)
 
 
 
