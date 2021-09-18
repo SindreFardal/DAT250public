@@ -49,7 +49,12 @@ Screenshot of the result:
 
 ![image](https://user-images.githubusercontent.com/50116138/133892293-a8d92262-5866-485f-82aa-89f9169a0719.png)
 
+I made this map reduce operation because it can be useful to know the dates of the purchases. 
+This could be important if there occurs any problems with any of the transactions which might be discovered a while after the transaction took place.
+I could also be useful to see the patterns in which someone buys something.
+The collection gathers all the dates of purchases per person into an array and print each persons array under their name when you print it.
 
 
 ## Technical problems
 I didn't encounter many problems/difficulties but one i did encounter was when trying to install MongoDB was "Failed to add user to group. <some numbers> SINDRE-PC Performance Monitor Users". I solved this by typing "net localgroup "Performance Monitor Users" /add" into cmd, and i was good to go.
+
